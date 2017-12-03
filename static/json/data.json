@@ -1,0 +1,862 @@
+{
+    "title": "Tenticle Pet",
+    "description": "Greetings earthling! You are among the fortunate few of your world who get to receive their very own Tentacle Pet! That's right, a tentacle monster that will attend you whenever you wish!<br><br>Why you ask? Because we breed and sell tentacle monsters to buyers across the multiverse. We noticed your universe has a complete lack of tentacle monsters, at least ones that fuck people. So this is an excellent oportunity for the both of us!<br><br>In exchange for a free Tentacle Pet, all we ask is that you serve as an example. We want people to look at you and say \"Hey, they look really happy with a Tentacle Pet. I should get one too!\"<br><br>So, because of the fact that you're getting a Pet for free rather than buying one, we've setup a points system for you. Some options will give you points, but most of them will cost points.<br><br><b>You start with 30 Points</b><br><br>Even after customizing and receiving your pet, the options don't end there. Your pet has various 'settings' which can be modified at any time, using your handy-dandy Pet Phone which you'll receive along with your pet.<br><br>You'll be able to customize things like its personality and libidio, enable/disable any perks which you have purchased, or modify settings that those purchases unlock.",
+    "img": "pet_phone.jpg",
+    "imgSource": "https://www.pixiv.net/member_illust.php?mode=medium&illust_id=40520300",
+    "author": "Whoop",
+    "version": "1.1",
+    "budget": 30,
+    "contains": [{
+            "title": "Default Perks",
+            "description": "These are free perks that come standard with every Tentacle Pet.",
+            "contains": [{
+                    "title": "Self Cleaning",
+                    "description": "A Tentacle Pet's slimy body will prevent it from gathering any germs or detritus from touching the ground.<br><br>Additionally, its cum will automatically evaporate after a while. You can adjust how long it lingers.",
+                    "img": "self_cleaning.jpg",
+                    "imgSource": "https://www.pixiv.net/member_illust.php?mode=medium&illust_id=63106690"
+                },
+                {
+                    "title": "Loyal",
+                    "description": "Your pet will obey every order you give it, so long as it understands, and you keep it happy.<br><br>Your pet will never attempt to harm a living being.<br><br>Most pets will not rape anyone. Though if they're starving or unhappy they might do so.",
+                    "img": "loyal.jpg",
+                    "imgSource": "http://stickysheepart.tumblr.com/post/137533393643/old-commission-still-pretty-neat-o"
+                },
+                {
+                    "title": "Sex Diet",
+                    "description": "Tentacle Pets feed off of a mixture of their own orgasms, and the orgasms of other beings.<br><br>To keep your pet healthy and happy the both of you should orgasm at least 3 times a day.<br><br>You can mod your pet to cum at the same time you do.",
+                    "img": "sex_diet.jpg",
+                    "imgSource": "http://www.hentai-foundry.com/pictures/user/StereoscopeComics/532305/Consentacles-02"
+                },
+                {
+                    "title": "Tough & Strong",
+                    "description": "Tentacle monsters are notoriously difficult to kill, as they possess incredible durability and regenerative properties. They'll live forever if not killed.<br><br>They are also strong enough to lift and bind humans effortlessly for extremely long periods of time.",
+                    "img": "tough_and_strong.jpg",
+                    "imgSource": "http://www.hentai-foundry.com/pictures/user/PiguTao/544501/Commission-Monster-under-bed"
+                },
+                {
+                    "title": "Penis Head",
+                    "description": "What kind of tentacle monster doesn't have a plethora of penises at its disposal? Dozens of dicks at the ready for penetration and ejaculation.<br><br>Your pet also has access to the PG-13 tapered tentacle.",
+                    "img": "penis_head.jpg",
+                    "imgSource": "http://www.hentai-foundry.com/pictures/user/AnimeFlux/297932/Relay---Adara"
+                }
+            ]
+        },
+        {
+            "title": "Personal Modifications",
+            "description": "Okay, so one slight problem is that your body is woefully inadequate to handle hot tentacle sex. So with your permission, we'll drug you, teleport you to our genetics lab, and modify your body to be far better than before. Which will provide you with these free perks.",
+            "contains": [{
+                    "title": "Youthful",
+                    "description": "Stage one of improving your body is fixing all of the inefficient crap. Your body now reconstructs cells perfectly.<br>Or in other words, etemal youth, pretty sweet huh?<br><br>On top of that, your body will now maintain its shape. So exercise is 100% unnecessary.",
+                    "img": "youthful.jpg",
+                    "imgSource": "https://www.pixiv.net/member_illust.php?mode=medium&illust_id=60080481"
+                },
+                {
+                    "title": "Total Makeover",
+                    "description": "Don't have the 'equipment' you want? Easy fix. We can modify your gender however you wish. Male, female, both?<br><br>While we're at it, we can completely re-do your appearance however you want, even add on some wierd parts.",
+                    "img": "total_makeover.jpg",
+                    "imgSource": "https://gelbooru.com/index.php?page=post&s=view&id=3164686"
+                },
+                {
+                    "title": "Endurance",
+                    "description": "Your body is now much more durable. So you can enjoy hours upon hours of tentacle sex without injury or exhaustion.<br><br>Also removes refractory periods, and period periods. Because fuck those honestly.",
+                    "img": "endurance.jpg",
+                    "imgSource": "https://gelbooru.com/index.php?page=post&s=view&id=2437406"
+                },
+                {
+                    "title": "Stretchy",
+                    "description": "You aren't made of rubber, but you might as well be. Your orifices can be painlessly stretched and inflated to insane degrees and will always retum to optimal tightness.<br><br>We can also apply this to 'unconventional' orifices if you really want us to.",
+                    "img": "stretchy.jpg",
+                    "imgSource": "https://www.pixiv.net/member_illust.php?mode=medium&illust_id=37815155"
+                },
+                {
+                    "title": "Wasteless",
+                    "description": "Your body is super efficient at digesting food, so you no longer produce any waste. These holes are solely for fucking!<br><br>Allows you to toggle your fertility if you ever fuck another person.<br><br>Yes I included having children in the 'waste' category.",
+                    "img": "wasteless.jpg",
+                    "imgSource": "https://www.pixiv.net/member_illust.php?mode=medium&illust_id=52824136"
+                }
+            ]
+        },
+        {
+            "title": "Intelligence",
+            "description": "How smart is your pet? Choose one option.",
+            "contains": [{
+                    "title": "Tentacle Monster",
+                    "cost": -8,
+                    "description": "Some pets retain the title of monster, and refuse any order.<br><br>This pet will relentlessly fuck anyone it can grab.<br><br>After 5 hours of sex, built in tranquilizers will knock it out for the remainder of the day.",
+                    "img": "tentacle_monster.jpg",
+                    "imgSource": "https://www.pixiv.net/member_illust.php?mode=medium&illust_id=55391583"
+                },
+                {
+                    "title": "Instinctive",
+                    "cost": -4,
+                    "description": "This pet is driven by instinct. It'll initiate sex whenever it gets hungry, regardless of consent. It can understand the most basic orders, such as 'follow' or 'fuck'.<br><br>While having sex, it'll do whatever it wants with whatever perks you have enabled.",
+                    "img": "instinctive.jpg",
+                    "imgSource": "https://www.pixiv.net/member_illust.php?mode=medium&illust_id=55583255"
+                },
+                {
+                    "title": "Standard",
+                    "description": "The standard intelligence for our pets. Your pet will only have sex with consenting partners.<br><br>Standard pets can understand basic orders and will do what you tell them to during sex.",
+                    "img": "standard.jpg",
+                    "imgSource": "http://www.hentai-foundry.com/pictures/user/Jackal-TanHorn/435383/Trails-in-Tentacles"
+                },
+                {
+                    "title": "Smart",
+                    "cost": 4,
+                    "description": "Smart pets are capable of understanding and performing complicated orders.<br><br>At this stage they can do menial chores and leam new things easily. They can even read.",
+                    "img": "smart.jpg",
+                    "imgSource": "https://gelbooru.com/index.php?page=post&s=view&id=2055693"
+                },
+                {
+                    "title": "Sapient",
+                    "cost": 8,
+                    "description": "A pet that can truly think for itself. It's still biologically programmed to serve you without fail.<br><br>Its mental capabilities are similar to a humans. You can decide how far along its mental development is.",
+                    "img": "sapient.jpg",
+                    "imgSource": "http://www.hentai-foundry.com/pictures/user/injuotoko/66226/Kissing"
+                }
+            ]
+        },
+        {
+            "title": "Body Type",
+            "description": "Now you need to decide what type of body your pet has. This only determines its general shape, the specific details are up to you.<br>Your pet can generate tentacles from any part of its body, regardless of which type you pick.<br>Choose one option.",
+            "contains": [{
+                    "title": "Blob",
+                    "description": "A popular choice, the Blob body is soft, cute, and maelleable.<br><br>If you ever wanted a bean bag chair that molests you then this is the body type for you.",
+                    "img": "blob.jpg",
+                    "imgSource": "http://requiemdusk.tumblr.com/post/146540107779/sketch-commissions-done-this-weekend-thanks"
+                },
+                {
+                    "title": "Beast",
+                    "cost": -2,
+                    "description": "Gives your pet a bestial form. Resembling an animal either real or fictional.<br><br>Mammal, avian, reptilian, even aquatic creatures are all valid choices.",
+                    "img": "beast.jpg",
+                    "imgSource": "https://www.pixiv.net/member_illust.php?mode=medium&illust_id=54547157"
+                },
+                {
+                    "title": "Insect",
+                    "cost": -2,
+                    "description": "Your pet will be some kind of insect, maybe a worm, spider, or ant.<br><br>Might creep out some customers. But honestly they're kinda cute.",
+                    "img": "insect.jpg",
+                    "imgSource": "https://www.pixiv.net/member_illust.php?mode=medium&illust_id=29699213"
+                },
+                {
+                    "title": "Human",
+                    "cost": 4,
+                    "description": "Another popular choice, we can make your pet look like a vety attractive human. We can make them look perfectly human, or give them unique traits.<br><br>Comes with standard human bits, along with the genitals of your choice.",
+                    "img": "human.jpg",
+                    "imgSource": "http://www.hentai-foundry.com/pictures/user/soranamae/503536/Kraken"
+                },
+                {
+                    "title": "Humanoid",
+                    "description": "This category is for bipedal creatures which are kind of human-shaped, but otherwise look nothing like humans.<br><br>Good if you want something like an alien, demon, or werewolf. Or a furry, sure.",
+                    "img": "humanoid.jpg",
+                    "imgSource": "http://www.hentai-foundry.com/pictures/user/RoxyRex/540475/RelicArts-Defeated-and-Pounded"
+                },
+                {
+                    "title": "Suit",
+                    "cost": -4,
+                    "description": "You'll be very close to your pet with this option. It'll make your pet a living set of clothing.<br><br>Can look like any outfit you want. Great for exhibitionists, or someone who wants a good disguise for their pet.",
+                    "img": "suit.jpg",
+                    "imgSource": "https://gelbooru.com/index.php?page=post&s=view&id=3248453"
+                },
+                {
+                    "title": "Swarm",
+                    "cost": 2,
+                    "description": "(Pick a second body type, pay its cost if it has one.)<br>Your pet is actually a hivemind, controlling between 4 to 12 bodies with one mind.<br>Each body can be given a different appearance.<br>Each body requires a single orgasm each, and you can feed multiple with one orgasm.",
+                    "img": "swarm.jpg",
+                    "imgSource": "http://the-sinnerz.tumblr.com/post/166066905508/thiss-commissions-from-austichar-and-vox-chaotic"
+                },
+                {
+                    "title": "Plant",
+                    "cost": -2,
+                    "description": "A plant based pet, for when you need a good chloro-filling.<br><br>Can be a big tree, a giant flower, etc.<br><br>Can be planted in dirt, doesn't require sunlight or water.",
+                    "img": "plant.jpg",
+                    "imgSource": "http://www.hentai-foundry.com/pictures/user/faustsketcher/186241/KEEP-OUT"
+                },
+                {
+                    "title": "Slime",
+                    "description": "A gelatinous blob of slime. Feels great to be submerged in one.<br><br>It can control its density, stopping you from accidentally falling into it.<br>If you do submerge yourself, the slime is oxygenized, so you won't drown.",
+                    "img": "slime.jpg",
+                    "imgSource": "https://www.pixiv.net/member_illust.php?mode=medium&illust_id=60318332"
+                },
+                {
+                    "title": "Robotic",
+                    "cost": -2,
+                    "description": "Okay we can't actually make a robot, we deal in genetics not circuitry.<br><br>However we can give your pet a metallic shell to resemble a robot.",
+                    "img": "robotic.jpg",
+                    "imgSource": "https://www.pixiv.net/member_illust.php?mode=medium&illust_id=62533372"
+                },
+                {
+                    "title": "Room",
+                    "cost": -4,
+                    "description": "This one is unique, your pet will start in a small 'seed' form. Leave it in an empty room and use your Pet Phone to activate it. The seed will grow to encompass the room. You can retum it to seed form if you need to move it. The tentacle room can look squishy and meaty, or you can have it disguise itself.",
+                    "img": "room.jpg",
+                    "imgSource": "https://www.pixiv.net/member_illust.php?mode=medium&illust_id=58731341"
+                },
+                {
+                    "title": "Symbiote",
+                    "cost": 8,
+                    "description": "With this option, we'll implant the pet directly into you. You'll be able to sprout tentacles, and control/feel them. Any perks or drawbacks purchased for your pet will affect you.<br><br>Your pet still has some autonomy, and can control tentacles of its own.",
+                    "img": "symbiote.jpg",
+                    "imgSource": "https://www.pixiv.net/member_illust.php?mode=medium&illust_id=64221009"
+                },
+                {
+                    "title": "Shapeshifter",
+                    "cost": 10,
+                    "description": "Can't pick? I don't blame you. But there is a solution. You can get a shapeshifting pet, it will be able to transform into any other body type, besides Swarm or Symbiote.<br><br>Transforming into another body type will take about an hour.",
+                    "img": "shapeshifter.jpg",
+                    "imgSource": "https://www.pixiv.net/member_illust.php?mode=medium&illust_id=65656277"
+                },
+                {
+                    "title": "Hybrid",
+                    "cost": 4,
+                    "description": "Mix'n 'Match! Combine any other body types, except Shapeshifter or Swarm.<br><br>Make a monster-girl, combine yourself with a tree, or make a robotic tentacle suit. The possibilities are endless!",
+                    "img": "hybrid.jpg",
+                    "imgSource": "http://monor.us/post/142705308948/scylla-from-monster-girl-encyclopedia"
+                },
+                {
+                    "title": "Miscellanious",
+                    "cost": 3,
+                    "description": "Nothing on here appeals to you? Want something even more specific?<br><br>Anything you can think of, so long as its not already an option. Maybe a book or a suitcase.",
+                    "img": "miscellanious.jpg",
+                    "imgSource": "https://calmdraws.tumblr.com/post/120359370991/its-nice-to-sit-down-and-enjoy-a-good-book"
+                }
+            ]
+        },
+        {
+            "title": "Body Size",
+            "description": "You've picked the body type, but how large is it?<br>Choose one option.<br>(Skip this section if your pet is a Room or Symbiote.)",
+            "contains": [{
+                    "title": "Tiny",
+                    "cost": -6,
+                    "description": "Aww, so adorable. A tiny pet is so small you can carry it effortlessly.<br><br>It only has enough room to generate a couple of tentacles at a time though.",
+                    "img": "tiny.jpg",
+                    "imgSource": "http://requiemdusk.tumblr.com/post/145144826129/sketch-commissions-done-this-weekend-ty-once"
+                },
+                {
+                    "title": "Small",
+                    "cost": -3,
+                    "description": "A small pet is anywhere from the size of a large dog to a cat.<br><br>It has enough tentacles to fully service one person, or to give a little attention to multiple people.",
+                    "img": "small.jpg",
+                    "imgSource": "https://www.pixiv.net/member_illust.php?mode=medium&illust_id=59003501"
+                },
+                {
+                    "title": "Normal",
+                    "description": "Your average pet is around the size of a human if not a little larger.<br><br>Well balanced and has plenty of tentacles to use on a single person, and can handle up to three people at a time.",
+                    "img": "normal.jpg",
+                    "imgSource": "https://www.pixiv.net/member_illust.php?mode=medium&illust_id=30689262"
+                },
+                {
+                    "title": "Large",
+                    "cost": -5,
+                    "description": "At this point your pet is going to have a hard time fitting inside the house. A malleable body will help it squeeze through doors.<br><br>A large pet can satisfy an entire group by itself.",
+                    "img": "large.jpg",
+                    "imgSource": "http://www.hentai-foundry.com/pictures/user/DrGraevling/250239/Pantsu-versus-Sweater-part-2"
+                },
+                {
+                    "title": "Massive",
+                    "cost": -10,
+                    "description": "This is a little excessive. This pet is bigger than your average house.<br><br>This one will never run out of tentacles. Invite the whole neighbourhood.",
+                    "img": "massive.jpg",
+                    "imgSource": "https://gelbooru.com/index.php?page=post&s=view&id=3831731"
+                },
+                {
+                    "title": "Mass Shifter",
+                    "cost": 4,
+                    "description": "It's a hard choice. Do I want a small pet that I can hold and cuddle or a larger pet that can dominate me?<br><br>Why pick? Give it the ability to increase or decrease its total mass. With this perk it can shift between Small, Normal, and Large.",
+                    "img": "mass_shifter.jpg",
+                    "imgSource": "https://www.pixiv.net/member_illust.php?mode=medium&illust_id=48183924"
+                }
+            ]
+        },
+        {
+            "title": "Tentacle Types",
+            "description": "Variety is the spice of life. What kinds of tentacles can your pet create?<br><br>Your pet can mix any of your purchased choices together to create hybrid tentacles.",
+            "contains": [{
+                    "title": "Tendrils",
+                    "cost": 1,
+                    "description": "Allows your pet to create tiny tendrils, good for teasing multiple areas.<br><br>Also good for smaller pets, as tendrils take vety little space.",
+                    "img": "tendrils.jpg",
+                    "imgSource": "https://www.pixiv.net/member_illust.php?mode=medium&illust_id=46724113"
+                },
+                {
+                    "title": "Exotic",
+                    "cost": 1,
+                    "description": "The miscellanious option. Allows your pet to create tentacles with weird heads that aren't on the list.<br><br>Good if you want something truly alien.",
+                    "img": "exotic.jpg",
+                    "imgSource": "https://www.pixiv.net/member_illust.php?mode=medium&illust_id=48133073"
+                },
+                {
+                    "title": "Large",
+                    "cost": 1,
+                    "description": "Need something bigger?<br><br>Allow your pet to create larger tentacles. Up to the size shown in the picture.<br><br>Smaller pets will have difficulty using these.",
+                    "img": "large2.jpg",
+                    "imgSource": "http://www.hentai-foundry.com/pictures/user/injuotoko/150686/Breaking-limit-teaser"
+                },
+                {
+                    "title": "Knotted",
+                    "cost": 1,
+                    "description": "Feeling knotty?<br><br>These tentacles have a bulge that will inflate inside of you when they cum, locking them in place.",
+                    "img": "knotted.jpg",
+                    "imgSource": "https://gelbooru.com/index.php?page=post&s=view&id=3719672"
+                },
+                {
+                    "title": "Nubbed",
+                    "cost": 1,
+                    "description": "Your pet can create nubs of varying size/shape for extra stimulation.<br><br>Each nub can be tumed into an opening for ejaculation, so it can shoot cum in multiple directions.",
+                    "img": "nubbed.jpg",
+                    "imgSource": "https://www.pixiv.net/member_illust.php?mode=medium&illust_id=32033276"
+                },
+                {
+                    "title": "Latch",
+                    "cost": 1,
+                    "description": "Squirm all you want, when this tentacle latches on it doesn't let go.<br><br>A strong tentacle that grabs the crotch/backside/face of its mate and ravishes them with an inner tentacle.",
+                    "img": "latch.jpg",
+                    "imgSource": "https://gelbooru.com/index.php?page=post&s=view&id=2838782"
+                },
+                {
+                    "title": "Grabbers",
+                    "cost": 1,
+                    "description": "Tentacles aren't great for grabbing things. So why not give them a hand?<br><br>Literally, this gives your pet the ability to grow finger-like appendages to grab and grope things.",
+                    "img": "grabbers.jpg",
+                    "imgSource": "https://gelbooru.com/index.php?page=post&s=view&id=1214608"
+                },
+                {
+                    "title": "Milker",
+                    "cost": 1,
+                    "description": "Dicks and tits deserve love too.<br><br>This tentacle will stimulate them and suck them dry.<br><br>Can also grab and tease clits or tongues. Or combined with 'Large' tentacles it can engulf a limb!",
+                    "img": "milker.jpg",
+                    "imgSource": "https://www.pixiv.net/member_illust.php?mode=medium&illust_id=26103978"
+                },
+                {
+                    "title": "Independent",
+                    "cost": 1,
+                    "description": "Gives your pet the ability to split off tentacles, which can then wiggle around and penetrate on their own.<br><br>Opens up some kinky avenues. Like shoving a whole bunch of these up somewhere.",
+                    "img": "independent.jpg",
+                    "imgSource": "https://jiffic.tumblr.com/post/113124195420/bored-so-donut-steel-for-all-sorts-of-future-lewd"
+                },
+                {
+                    "title": "Grinder",
+                    "cost": 1,
+                    "description": "A tentacle with one side covered in soft bumps. Designed to rub against sensitive areas.",
+                    "img": "grinder.jpg",
+                    "imgSource": "https://booster-yoshy3.deviantart.com/art/how-about-tentacle-rodeo-517818012"
+                },
+                {
+                    "title": "Ribbed",
+                    "cost": 1,
+                    "description": "A simple modification. Ribbed for your pleasure.<br><br>Allows you to change the texture of your pets tentacles from smooth to bumpy.<br><br>Comes with a variety of different textures.",
+                    "img": "ribbed.jpg",
+                    "imgSource": "https://www.pixiv.net/member_illust.php?mode=medium&illust_id=58868965"
+                },
+                {
+                    "title": "Swallower",
+                    "cost": 1,
+                    "description": "A large tentacle with an opening that can swallow a person whole and hold them in a tight embrace. Then intemal tentacles can be used to toy with whoever is inside.<br><br>When combined with the 'Vore' perk, it can be used to swallow you into the main body.",
+                    "img": "swallower.jpg",
+                    "imgSource": "https://www.pixiv.net/member_illust.php?mode=medium&illust_id=53673724"
+                },
+                {
+                    "title": "Fuckhole",
+                    "cost": 1,
+                    "description": "Who says you can't give it to a tentacle?<br><br>Creates a tentacle with a tight, lubricated hole.<br><br>Unnecessary with a human tentacle pet, unless you want more holes to play with.",
+                    "img": "fuckhole.jpg",
+                    "imgSource": "https://gelbooru.com/index.php?page=post&s=view&id=145172"
+                },
+                {
+                    "title": "Beaded",
+                    "cost": 1,
+                    "description": "This tentacle replicates a set of anal beads. But these can keep going deeper and deeper.<br><br>The beads can all be different sizes. Getting bigger, smaller, or varying.",
+                    "img": "beaded.jpg",
+                    "imgSource": "https://gelbooru.com/index.php?page=post&s=view&id=1913223"
+                },
+                {
+                    "title": "Oviposition",
+                    "cost": 1,
+                    "description": "Allows your pet to use ovipositors to stuff unfertilized eggs inside of you.<br>You can modify the size, weight, and quantity of the eggs. And whether they melt and evaporate or if you need to lay them. The 'Fertile' perk will allow fertilized eggs.",
+                    "img": "oviposition.jpg",
+                    "imgSource": "http://www.hentai-foundry.com/pictures/user/KallistaNebula/520569/Tifas-Tentacle-Encounter"
+                },
+                {
+                    "title": "Cilia",
+                    "cost": 1,
+                    "description": "Allows your pet to cover itself in small tentacles. Creating a bed which will wiggle against any body part it touches.",
+                    "img": "cilia.jpg",
+                    "imgSource": "https://gelbooru.com/index.php?page=post&s=view&id=3098354"
+
+                },
+                {
+                    "title": "Octopus",
+                    "cost": 1,
+                    "description": "Relive the classics.<br><br>The octopus tentacle comes with suckers that can grip and make penetration more stimulating.",
+                    "img": "octopus.jpg",
+                    "imgSource": "https://www.pixiv.net/member_illust.php?mode=medium&illust_id=62202969"
+                },
+                {
+                    "title": "Observer",
+                    "cost": 1,
+                    "description": "A tentacle with an eye on the end.<br><br>It's not just an eye though, it can record what it sees and upload it to your Pet Phone for later viewing.<br><br>You can also use your Pet Phone to watch through the Observer's eye.",
+                    "img": "observer.jpg",
+                    "imgSource": "https://gelbooru.com/index.php?page=post&s=view&id=1315583"
+                },
+                {
+                    "title": "Tongue",
+                    "cost": 1,
+                    "description": "For fans of cunnilingus and being licked all over. This mod adds tongues with a similar texture to a human tongue.",
+                    "img": "tongue.jpg",
+                    "imgSource": "https://www.pixiv.net/member_illust.php?mode=medium&illust_id=58195959"
+                },
+                {
+                    "title": "All-ln-One",
+                    "cost": 12,
+                    "description": "Every single tentacle type for 12 points.<br><br>That's a 7 point discount!",
+                    "img": "all-in-one_package.jpg",
+                    "imgSource": "http://www.hentai-foundry.com/pictures/user/injuotoko/366540/Plenty-of-Love-for-The-Bride-1"
+                }
+            ]
+        },
+        {
+            "title": "Perks",
+            "description": "Pets can be modified to add all sorts of abilities or traits. The Pet Phone can toggle perks on or off. Or configure options that those perks give you.",
+            "contains": [
+                {
+                    "title": "Fertile",
+                    "cost": 4,
+                    "description": "Enables your pet to impregnate people. You can set the gestation time from half an hour to a month. Offspring will be generic, unmodified tentacles. If you don't want to keep them, we can come and pick them up anytime. By default, will only impregnate a uterus. But the option for other holes is there.",
+                    "img": "fertile.jpg",
+                    "imgSource": "http://www.hentai-foundry.com/pictures/user/injuotoko/50579/Lovely-green-babies"
+                },
+                {
+                    "title": "Womb",
+                    "cost": 3,
+                    "description": "(Requires either a Human pet, Milker, or Fuck Hole.)<br>Allows you to impregnate your pet. Obviously you'll need a dick. The offspring are the same as from the 'Fertile' perk. Perhaps you have a pregnancy fetish, or you want your pet to carry the drones from the next perk.",
+                    "img": "womb.jpg",
+                    "imgSource": "https://gelbooru.com/index.php?page=post&s=view&id=3770686"
+
+                },
+                {
+                    "title": "Drones",
+                    "cost": 2,
+                    "description": "(Requires either Fertile or Womb.)<br>Your pet's offspring are now servant drones which will obey you or your pet. You can customize the appearance of your drones, but they are always Tiny or Small. Drones can use the Tentacle types and perks of its parent. Each drone needs 1 orgasm a day.",
+                    "img": "drones.jpg",
+                    "imgSource": "https://gelbooru.com/index.php?page=post&s=view&id=2838723"
+                },
+                {
+                    "title": "Cum Production",
+                    "cost": 2,
+                    "description": "The amount of cum a tentacle can produce is impressive, but sometimes it just isn't enough.<br><br>Enables you to modify how much cum your pet can produce. Varies from just a spurt to being able to cause inflation with a single orgasm.",
+                    "img": "cum_production.jpg",
+                    "imgSource": "https://gelbooru.com/index.php?page=post&s=view&id=3188108"
+                },
+                {
+                    "title": "Fluid Production",
+                    "cost": 1,
+                    "description": "Jealous of your pets virility? With this perk, your pet can alter your own fluid production. Allows for intense ejaculations or lactation.<br><br>Very satisfying to combine with 'Milker' tentacles.",
+                    "img": "fluid_production.jpg",
+                    "imgSource": "http://www.hentai-foundry.com/pictures/user/slugboxHF/149002/Gangi-Tentacles"
+                },
+                {
+                    "title": "Vore",
+                    "cost": 2,
+                    "description": "(Incompatible with Tiny or Small pets)<br>Your pet now has a hollow interior and can open a 'mouth' to swallow people and fuck them inside of itself.<br><br>'Bioluminescence' is recommended. It'll be dark otherwise.",
+                    "img": "vore.jpg",
+                    "imgSource": "https://www.pixiv.net/member_illust.php?mode=medium&illust_id=55191227"
+                },
+                {
+                    "title": "Webbing",
+                    "cost": 2,
+                    "description": "Tentacles can't really handle rope, but if you want bondage, we've got you covered.<br><br>Allows your pet to spit a sticky substance which will easily restrain you.<br><br>Your pet can dissolve the webbing after your done.",
+                    "img": "webbing.jpg",
+                    "imgSource": "https://gelbooru.com/index.php?page=post&s=view&id=3248419"
+                },
+                {
+                    "title": "Vibrator",
+                    "cost": 2,
+                    "description": "Gives your pet the ability to vibrate like a sex toy.<br><br>Comes with speeds varying from 'Pleasant' to 'Oh God!'",
+                    "img": "vibrator.jpg",
+                    "imgSource": "https://www.pixiv.net/member_illust.php?mode=medium&illust_id=59896966"
+                },
+                {
+                    "title": "Restraint",
+                    "cost": 2,
+                    "description": "Tentacles can wrap around and restrain just fine, but nothing is kinkier than having the entirety of a body part engulfed.<br><br>Enables your pet to create holes which can swallow and hold parts of your body.",
+                    "img": "restraint.jpg",
+                    "imgSource": "https://www.pixiv.net/member_illust.php?mode=medium&illust_id=26067358"
+                },
+                {
+                    "title": "Sensitivity",
+                    "cost": 2,
+                    "description": "Allows your pet to make any part of your body an erogenous zone, which can make you cumjust from being rubbed. Can also be used on existing erogenous zones to enhance them further, for when you want to be completely fucked silly.<br><br>Also works on your pet.",
+                    "img": "sensitivity.jpg",
+                    "imgSource": "https://www.pixiv.net/member_illust.php?mode=medium&illust_id=63718011"
+                },
+                {
+                    "title": "Nourishing",
+                    "cost": 3,
+                    "description": "The only food group you need, this perk will allow you to survive solely off of your pets fluids.<br><br>One standard ejaculation is equivalent to a balanced meal. With 'Cum Production' the nutritional value will adjust itself along with the load.",
+                    "img": "nourishing.jpg",
+                    "imgSource": "http://deyellowroom.tumblr.com/post/152409287080/for-i-knew-that-the-king-in-yellow-had-opened-his"
+                },
+                {
+                    "title": "Tasty",
+                    "cost": 1,
+                    "description": "If you're gonna be slurping cum because of 'Nourishing' or just because you like it, why not improve the taste?<br><br>Gives hundreds of options for the flavor of your pets cum.",
+                    "img": "tasty.jpg",
+                    "imgSource": "https://jiffic.tumblr.com/post/157961482070/shaea-teased-her-pets-a-bit-too-much-and-now-that"
+                },
+                {
+                    "title": "Reinvigorate",
+                    "cost": 4,
+                    "description": "If you want to literally fuck 24/7, this perk will enable that.<br><br>Gives your pet a slight healing ability. Not enough for wounds, but it'll simulate the benefits of sleep and keep you awake with no drawbacks.",
+                    "img": "reinvigorate.jpg",
+                    "imgSource": "http://www.hentai-foundry.com/pictures/user/Acht/464689/Tessa-2.0"
+                },
+                {
+                    "title": "Comfy",
+                    "cost": 1,
+                    "description": "The squishy body of a tentacle makes for excellent cuddles. But why settle for excellent?<br><br>This upgrade will make your pet so dang comfy you'll never want to sleep in a bed again.",
+                    "img": "comfy.jpg",
+                    "imgSource": "http://www.hentai-foundry.com/pictures/user/My_Pet_Tentacle_Monster/326945/Better-than-pillow"
+                },
+                {
+                    "title": "Heat Regulation",
+                    "cost": 2,
+                    "description": "Too hot to fuck during summer? Too cold to be naked in winter?<br><br>Give your pet the ability to regulate its temperature, and it can become chilly, hot, or anywhere in-between on demand.",
+                    "img": "heat_regulation.jpg",
+                    "imgSource": "https://radlionheart.tumblr.com/post/89716691497/commission-for-deliciousorange-thanks-for-giving"
+                },
+                {
+                    "title": "Summon",
+                    "cost": 4,
+                    "description": "Ensure that you're never alone by giving your pet the ability to create gates in space to teleport itself to you.<br><br>Portals for individual tentacles can be created instantly, but teleporting the entire pet to you will take a minute.",
+                    "img": "summon.jpg",
+                    "imgSource": "https://www.pixiv.net/member_illust.php?mode=medium&illust_id=44867957"
+                },
+                {
+                    "title": "Bioluminescence",
+                    "cost": 1,
+                    "description": "It glows in the dark!<br><br>Can be applied to the pet, its tentacles, and/or its cum.<br><br>Good combination with any vore options.",
+                    "img": "bioluminescence.jpg",
+                    "imgSource": "http://www.hentai-foundry.com/pictures/user/Nayuru/520316/Like-Lanterns"
+                },
+                {
+                    "title": "Amphibious",
+                    "cost": 2,
+                    "description": "Your pet will be able to swim and breathe underwater just as easily as on the surface.<br><br>Also allows it to supply oxygen to you so you can have sex underwater.",
+                    "img": "amphibious.jpg",
+                    "imgSource": "https://gelbooru.com/index.php?page=post&s=view&id=3979260"
+                },
+                {
+                    "title": "Strong",
+                    "cost": 4,
+                    "description": "Tum your pet into a heavy lifter.<br><br>This perk makes your pet strong enough to carry tremendous weight and restrain people who have super-strength.",
+                    "img": "strong.jpg",
+                    "imgSource": "http://www.hentai-foundry.com/pictures/user/elvira/538617/Yang--Tentacles"
+                },
+                {
+                    "title": "Flight",
+                    "cost": 3,
+                    "description": "Hopefully you aren't afraid of heights. This perk enables your pet to fly.<br><br>Your pet can do this using either wings, or simple levitation.",
+                    "img": "flight.jpg",
+                    "imgSource": "http://www.hentai-foundry.com/pictures/user/Magnifire/526335/Commission"
+                },
+                {
+                    "title": "Chameleon",
+                    "cost": 3,
+                    "description": "Sometimes your pet feels blue, or green, or orange, or whatever color it wants honestly.<br><br>Gives your pet the ability to change colors.<br><br>Or to even become invisible.",
+                    "img": "chameleon.jpg",
+                    "imgSource": "https://deliciousorangeart.tumblr.com/post/94382867802/poor-little-tentacle-is-all-tuckered-out-from-a"
+                },
+                {
+                    "title": "Aphrodisiac",
+                    "cost": 3,
+                    "description": "Your pet can create an aphrodisiac using gas, liquid, or pheromones.<br><br>The aphrodisiacs can slightly compel someone or drive them mad with lust.<br><br>An easy way to ensure you're always in the mood.",
+                    "img": "aphrodisiac.jpg",
+                    "imgSource": "https://gelbooru.com/index.php?page=post&s=view&id=2832414"
+                },
+                {
+                    "title": "Lucidity",
+                    "cost": 3,
+                    "description": "By linking to you telepathically, your pet can induce lucid dreams while you're asleep.<br><br>You and your pet will share control of the dream.",
+                    "img": "lucidity.jpg",
+                    "imgSource": "http://requiemdusk.tumblr.com/post/142340098529/wet-dreams"
+                },
+                {
+                    "title": "Body Swapping",
+                    "cost": 3,
+                    "description": "Your pet can now swap the minds of people. It can even swap its own mind with someone.<br><br>Anyone mind-swapped has to remain within a 30 meter distance from your pet, otherwise the swap will end.",
+                    "img": "body_swapping.jpg",
+                    "imgSource": "http://lewd-zko.tumblr.com/post/128291752636/panty-and-stocking-brain-rape"
+                },
+                {
+                    "title": "Mind Control",
+                    "cost": 5,
+                    "description": "Gives your pet the ability to mind control people. Who will then follow any orders you or your pet give them.<br><br>Anyone affected has to remain within a 30 meter distance from your pet. You can decide what your victims remember, if anything.",
+                    "img": "mind_control.jpg",
+                    "imgSource": "https://rupie-art.tumblr.com/post/161194711606/commission-for-a-friend-3"
+                },
+                {
+                    "title": "Body Shaping",
+                    "cost": 4,
+                    "description": "Some tentacle monsters can shape the bodies of their victims.<br><br>By giving your pet this ability, you'll have an on demand way to change yourself whenever and however you want.",
+                    "img": "body_shaping.jpg",
+                    "imgSource": "http://www.hentai-foundry.com/pictures/user/fiveish/436984/June-Patreon---Tentacles-2"
+                },
+                {
+                    "title": "Speech",
+                    "cost": 1,
+                    "description": "Gives your pet the ability to speak fluently in hundreds of languages, using one of many voice options.<br><br>Heavily affected by intelligence.<br><br>Standard pets can dirty talk. Smart pets can hold conversations. Dumb pets talk like cavemen. options that those perks give you.",
+                    "img": "speech.jpg",
+                    "imgSource": "http://www.hentai-foundry.com/pictures/user/bobbydando/367967/3-girls-3-tentacle-flavors"
+                },
+                {
+                    "title": "Pet Sitter",
+                    "cost": 4,
+                    "description": "Need a helping hand? Call us and we'll instantly teleport a Pet Sitter of the specified gender to assist you!<br><br>Gives you five hours each day where you can call a Pet Sitter to help with your pet. After the five hours they'll be teleported home.",
+                    "img": "pet_sitter.jpg",
+                    "imgSource": "http://requiemdusk.tumblr.com/post/144384970134/sketch-commissions-done-this-weekend-thank-you"
+                },
+                {
+                    "title": "Cosplay",
+                    "cost": 3,
+                    "description": "Fan of roleplay are you? You can subscribe to our Fashion Division and order a free outfit every week!<br><br>The outfit will be teleported to you within the day. And is durable enough to withstand tentacle sex.<br><br>Or you can order a fragile outfit, if you want it tom off of you.",
+                    "img": "cosplay.jpg",
+                    "imgSource": "https://www.pixiv.net/member_illust.php?mode=medium&illust_id=60318332"
+                },
+                {
+                    "title": "Out of Area Delivery",
+                    "cost": 5,
+                    "description": "Oh? You're already in the middle of another CYOA?<br><br>No matter! An extra fee will allow us to deliver your pet to wherever you'll be during that other CYOA.",
+                    "img": "out_of_area_delivery.jpg",
+                    "imgSource": "http://www.hentai-foundry.com/pictures/user/DarkArtsKai/520662/Commission-Delivery-gone-Awry"
+                }
+            ]
+        },
+        {
+            "title": "Drawbacks",
+            "description": "Not every pet is created equal. Some pets have errors, behavioral issues, or retain negative ancestral traits.Regardless, they deserve a loving home too. So if you're willing to accept a pet that has detrimentalquirks, we'll give you more points to spend on positive perks.<br><br>Drawbacks are permanent, and cannot be removed. Attempting to deny or punish a pet for its drawbackwill only result in it getting upset, breaking things, refusing commands, raping people, etc.",
+            "contains": [{
+                    "title": "Fucked Silly",
+                    "cost": -2,
+                    "description": "Your pet gets a little too eager sometimes, and will chain orgasm you into an incoherent puddle.<br><br>When this happens, you'll be riding a pleasure high for about 30 to 60 minutes until you mentally recover.",
+                    "img": "fucked_silly.jpg",
+                    "imgSource": "https://www.pixiv.net/member_illust.php?mode=medium&illust_id=61757691"
+                },
+                {
+                    "title": "Messy",
+                    "cost": -2,
+                    "description": "(Invalidates Cum Production)<br><br>This pet can't control its cum production. Every time you have sex you'll get bukkake'd, drenched, and/or filled to the brim with cum.<br><br>On top of that, it won't evaporate for at least an hour.",
+                    "img": "messy.jpg",
+                    "imgSource": "http://requiemdusk.tumblr.com/post/145388721684/myria-doesnt-mind-her-situation-commission-for"
+                },
+                {
+                    "title": "Breeder",
+                    "cost": -6,
+                    "description": "(Requires Fertile)<br><br>An intense desire to breed is instilled into this pet. It wants you to give birth at least three times aweek, with 72 total hours of gestation or more.<br><br>Again, we'll collect any unwanted offspring.",
+                    "img": "breeder.jpg",
+                    "imgSource": "https://www.pixiv.net/member_illust.php?mode=medium&illust_id=44465286"
+                },
+                {
+                    "title": "Pheromones",
+                    "cost": -4,
+                    "description": "(Requires Aphrodisiac)<br><br>A method once used to lure victims in, this pet emits pheromones which will cause intense arousal in anyone within 10 meters.<br><br>You'll build a resistance to it, but it'll always make you a little horny.",
+                    "img": "pheromones.jpg",
+                    "imgSource": "https://gelbooru.com/index.php?page=post&s=view&id=2490542"
+                },
+                {
+                    "title": "Voracious",
+                    "cost": -4,
+                    "description": "(Requires Vore or Swallower)<br><br>What an appetite! More often than not, when you have sex with your pet, it will swallow you.<br><br>Your sessions will take a little longer, as your pet will be reluctant to relinquish you.",
+                    "img": "voracious.jpg",
+                    "imgSource": "https://www.pixiv.net/member_illust.php?mode=medium&illust_id=41405315"
+                },
+                {
+                    "title": "Hypnosis",
+                    "cost": -2,
+                    "description": "Your pet has a mental connection with you which it will occasionally use to mind control you and use you however it wishes.<br><br>You'll be aware and feel everything, you just can't control yourself. The hypnosis will wear off within an hour.",
+                    "img": "hypnosis.jpg",
+                    "imgSource": "https://www.pixiv.net/member_illust.php?mode=medium&illust_id=52527466"
+                },
+                {
+                    "title": "Marathon",
+                    "cost": -3,
+                    "description": "Some pets lapse in training and will ignore their master's cries, fucking them relentlessly for hours on end.<br><br>You can expect this to happen about once a week. When it does, it'll take at least 6 hours for yourpet to restrain itself.",
+                    "img": "marathon.jpg",
+                    "imgSource": "https://www.pixiv.net/member_illust.php?mode=medium&illust_id=60318332"
+                },
+                {
+                    "title": "Forceful",
+                    "cost": -3,
+                    "description": "(Cannot take with Tentacle Monster or Instinctive)<br><br>When your pet wants sex, it will force itself upon anyone nearby.<br><br>Be careful with this pet around friends or in public.",
+                    "img": "forceful.jpg",
+                    "imgSource": "https://www.pixiv.net/member_illust.php?mode=medium&illust_id=63913402"
+                },
+                {
+                    "title": "Box of Chocolates",
+                    "cost": -6,
+                    "description": "(Requires All-In-One Package)<br><br>This pet was a prototype for the tentacle creation system. However it cannot properly control that mechanism.<br><br>Whenever your pet has sex, it will use random tentacles.",
+                    "img": "box_of_chocolates.jpg",
+                    "imgSource": "http://www.hentai-foundry.com/pictures/user/injuotoko/70319/The-scene-of-your-choice-1"
+                },
+                {
+                    "title": "Nightmares",
+                    "cost": -2,
+                    "description": "About 33% of the times you sleep, you'll experience a lucid sexual nightmare where you'll be raped, impregnated, or violated in a number of other ways.",
+                    "img": "nightmares.jpg",
+                    "imgSource": "https://www.pixiv.net/member_illust.php?mode=medium&illust_id=50653138"
+                },
+                {
+                    "title": "Growth Hormones",
+                    "cost": -3,
+                    "description": "(Invalidates Fluid Production)<br><br>The hormones produced by this pet will cause breast, ass, and penis expansion in anyone who copulates with it frequently.<br><br>The above picture shows the limit of the expansion. It also causes a large increase in lactation and cum production.",
+                    "img": "growth_hormones.jpg",
+                    "imgSource": "https://tentaclerape.net/post/view/25989"
+                },
+                {
+                    "title": "Glutton",
+                    "cost": -3,
+                    "description": "This pet is particularly ravenous, the both of you will need to orgasm 10 times each day.<br><br>If you have a Swarm pet, each body will require 3 orgasms. Remember each of your orgasms can feed multiple bodies at a time.",
+                    "img": "glutton.jpg",
+                    "imgSource": "https://www.pixiv.net/member_illust.php?mode=medium&illust_id=51492976"
+                },
+                {
+                    "title": "Pervert",
+                    "cost": -2,
+                    "description": "This pet has an intolerance for any clothing that isn't sexy or revealing.<br><br>If you wear any offending clothing, you'll have only a few minutes to remove it before your pet does so for you.",
+                    "img": "pervert.jpg",
+                    "imgSource": "https://www.pixiv.net/member_illust.php?mode=medium&illust_id=62469262"
+                },
+                {
+                    "title": "Corruption",
+                    "cost": -3,
+                    "description": "You're probably already a kinky pervert.<br>But having sex with a corruptive pet will really bring out your inner freak.<br><br>Your libidio will increase, your thoughts will be lewder, and you'll do kinkier things with your pet.",
+                    "img": "corruption.jpg",
+                    "imgSource": "https://www.pixiv.net/member_illust.php?mode=medium&illust_id=61813159"
+                },
+                {
+                    "title": "Creepy",
+                    "cost": -1,
+                    "description": "There isn't anything wrong with this one...it's just ugly.<br><br>Maybe it has some creepy eyes, mouths, or other unsettling features. But apart from that theres nothing wrong with it.",
+                    "img": "creepy.jpg",
+                    "imgSource": "https://www.pixiv.net/member_illust.php?mode=medium&illust_id=54679228"
+                },
+                {
+                    "title": "Refractory Period",
+                    "cost": -4,
+                    "description": "(Cannot take with Marathon or Glutton.)<br><br>Yes, some tentacle pets have refractory periods. They can only cum 3 times a day, after that anysex is uncomfortable and should be avoided. The bodies of a swarm pet canonly handle 1 orgasm a day.",
+                    "img": "refractory_period.jpg",
+                    "imgSource": "http://www.hentai-foundry.com/pictures/user/RoxyRex/503608/Redeagel-Piper-Wright"
+                },
+                {
+                    "title": "Drought",
+                    "cost": -2,
+                    "description": "(Cannot take with Messy.)<br>(Invalidates any cum related perk.)<br><br>This pet cannot produce any cumat all. It can still orgasm, but there won't be any fireworks.<br><br>It can still produce slime and eggs just fine.",
+                    "img": "drought.jpg",
+                    "imgSource": "http://www.hentai-foundry.com/pictures/user/RoxyRex/449362/Those-Gosh-Darn-Tentacles"
+                },
+                {
+                    "title": "Aquatic",
+                    "cost": -6,
+                    "description": "(Invalidates Amphibious)<br><br>This pet came from a line of waterbreathingtentacle monsters, allowing it to survive underwater, and provide oxygen to its mate.<br><br>However, it's main body has to remain in water or else it'll shrivel up into a useless ball.",
+                    "img": "aquatic.jpg",
+                    "imgSource": "https://deliciousorangeart.tumblr.com/post/94108963374/a-certain-special-lady-who-has-always-been-a-stern"
+                },
+                {
+                    "title": "Nocturnal",
+                    "cost": -1,
+                    "description": "This pet stalks the night and sleeps during the day. Don't think cutting it off from the outside will help, it has a flawless intemal clock.<br><br>You'll have to feed it during nighttime, otherwise it might takey ou while you're asleep.",
+                    "img": "nocturnal.jpg",
+                    "imgSource": "http://www.hentai-foundry.com/pictures/user/DarkArtsKai/426707/Commission-Tentacles-at-Graveyard"
+                },
+                {
+                    "title": "Immobile",
+                    "cost": -4,
+                    "description": "For some reason, this pet can't move itself. Something or someoneelse will have to move it.<br><br>Hopefully it isn't too large and heavy to carry around.",
+                    "img": "immobile.jpg",
+                    "imgSource": "https://gelbooru.com/index.php?page=post&s=view&id=2022817"
+                },
+                {
+                    "title": "Clingy",
+                    "cost": -3,
+                    "description": "(Cannot take with Symbiote.)<br>One thing we pride ourselves on is how much our pets love their masters. But sometimes it's a little too much.<br>Being away from your pet for more than an hour will cause it to panic. And it will probably fuck you when you get back to calm itself down.",
+                    "img": "clingy.jpg",
+                    "imgSource": "http://requiemdusk.tumblr.com/post/153486922054/character-from-a-game-im-looking-forward-to"
+                },
+                {
+                    "title": "Jealous",
+                    "cost": -2,
+                    "description": "This pet is a little obsessive. It will get upset if you have any sexual relations with someone or something else.<br><br>That is unless, you and your partner have frequent sex with your pet. In that case it'll feel included and won't get upset.",
+                    "img": "jealous.jpg",
+                    "imgSource": "https://gelbooru.com/index.php?page=post&s=view&id=165663"
+                },
+                {
+                    "title": "Shy",
+                    "cost": -2,
+                    "description": "Some tentacle monsters bond for life, only having a single mate.<br><br>This one is rather nervous around new people, and it needs to know them for a while before it'll have sex with them.<br><br>Watching you fuck someone will get it to trust them faster.",
+                    "img": "shy.jpg",
+                    "imgSource": "http://requiemdusk.tumblr.com/post/80183139522/wip-via-stream-on-picarto-later-today"
+                },
+                {
+                    "title": "Sibling",
+                    "cost": -3,
+                    "description": "These two pets are inseperable! If you want one you'll have to take both. Both pets share the same body type, but can otherwise have different sizes and appearences.<br><br>Any perks or drawbacks will apply to the both of them. And you need to give them equal attention.",
+                    "img": "sibling.jpg",
+                    "imgSource": "https://gelbooru.com/index.php?page=post&s=view&id=3626627"
+                },
+                {
+                    "title": "Harem",
+                    "cost": -8,
+                    "description": "This pet has a unique digestive system. It can only feed from somebodies orgasm once a day.<br><br>This means that for every orgasm it requires, you'll need an additional person for it to fuck.",
+                    "img": "harem.jpg",
+                    "imgSource": "https://rule34.xxx/index.php?page=post&s=view&id=2499382"
+                }
+            ]
+        },
+        {
+            "title": "Job Offers",
+            "description": "If you're interested, we have some job opening savailable. We'll teleport you there and back. Don't worry about being in a different dimension, it's safe.",
+            "contains": [{
+                    "title": "Surveillance",
+                    "cost": 0,
+                    "description": "<b>Low Pay</b><br><br>We're always looking for more data involving new dimensions.<br><br>If you allow us to rig cameras in your home to observe you and your pet, we'll compensate you.",
+                    "img": "surveillance.jpg",
+                    "imgSource": "https://gelbooru.com/index.php?page=post&s=view&id=1000676"
+                },
+                {
+                    "title": "Pet Sitter",
+                    "cost": 0,
+                    "description": "<b>Medium Pay</b><br><br>Give your fellow pet owners a helping hand.<br><br>You don't have any way to control somebody else's pet. It'll just use you however it wants for 5 hours or until its owner sends you back.",
+                    "img": "pet_sitter2.jpg",
+                    "imgSource": "http://www.hentai-foundry.com/pictures/user/DarkArtsKai/449680/Elf-tentacle"
+                },
+                {
+                    "title": "Porn Star",
+                    "cost": 0,
+                    "description": "<b>Medium Pay</b><br><br>Porn is an excellent way to boost sales!<br><br>Just send us videos of you and your pet and we'll handle the rest. You'll get paid based on theviewership.",
+                    "img": "porn_star.jpg",
+                    "imgSource": "https://gelbooru.com/index.php?page=post&s=view&id=2588216"
+                },
+                {
+                    "title": "Prostitute",
+                    "cost": 0,
+                    "description": "<b>Medium Pay</b><br><br>Some people aren't ready for the committment of a pet. But they'll gladly pay for a night with one.<br><br>You can 'rent' your pet to clients of your choosing. You'll be payed more if you participate as well.",
+                    "img": "prostitute.jpg",
+                    "imgSource": "http://www.hentai-foundry.com/pictures/user/iri-neko/331540/The-Queens-New-Dish"
+                },
+                {
+                    "title": "Milk Donor",
+                    "cost": 0,
+                    "description": "<b>High Pay</b><br><br>Some pets require physical diets. You can help by stopping by our labs and feeding them.<br><br>Your breasts and penis will be temporarily enlarged, and your liquid productions increased.<br><br>The milking will be done manually by tentacle pets.",
+                    "img": "milk_donor.jpg",
+                    "imgSource": "https://www.pixiv.net/member_illust.php?mode=medium&illust_id=13974075"
+                },
+                {
+                    "title": "Breeder",
+                    "cost": 0,
+                    "description": "<b>Very High Pay</b><br><br>Tentacle Pets are in high demand and we could always use more.<br><br>If you're willing to breed with your pet, we'll pay you for every offspring you send us.<br><br>We do not accept drones.",
+                    "img": "breeder2.jpg",
+                    "imgSource": "https://gelbooru.com/index.php?page=post&s=view&id=1915008"
+                }
+            ]
+        }
+    ]
+}
